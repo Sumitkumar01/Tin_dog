@@ -38,6 +38,12 @@ p {
 }
 
 /* navigation bar */
+
+.navbar-toggler-icon{
+  height: 3em;
+  width: 3em;
+}
+
 .navbar {
   padding: 0 0 4.5rem;
 }
